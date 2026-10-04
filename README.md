@@ -39,9 +39,6 @@ Passionate about building interactive, user-friendly, and scalable web applicati
 
 ## 🚀 Projects
 
-### 📚 E-BOOKHUB
-Full-stack e-book platform built with React, Node.js & MongoDB.
-
 ### 🌐 Personal Portfolio
 Responsive portfolio built using HTML, CSS & JavaScript.
 
@@ -53,7 +50,7 @@ Spring Boot + MySQL full-stack application with REST APIs.
 ## 📫 Connect With Me
 
 📧 Email: biddikaaravind875@gmail.com  
-📱 Phone: +91 9014833072  
+📱 Phone: +91 9908665695
 🌍 Location: Andhra Pradesh, India  
 
 ---
